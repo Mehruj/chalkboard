@@ -7,7 +7,8 @@ Contributors: Davron Ochilov, Mehruj Kamal
 
 
 The link to the website: https://mehruj.github.io/chalkboard/src/index
-Screensot of:
+
+Screenshot of:
 Student View:https://drive.google.com/drive/folders/1fvAJnL0y4xDWKwRv-evKlOgRl6-3-S5l?usp=sharing
 Instructor View:https://drive.google.com/file/d/1UgI9Lek4ZR6ibuJ3VTSmus1XtRI-8Bt4/view?usp=sharing
 Admin View:https://drive.google.com/drive/folders/18AtLOFKVXCJTZIWMnqVHRO915_dStIvv?usp=sharing
