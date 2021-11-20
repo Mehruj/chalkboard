@@ -6,7 +6,7 @@
 Contributors: Davron Ochilov, Mehruj Kamal
 
 
-The link to the website: https://ochilovdavron.github.io/chalkboard/src
+The link to the website: https://mehruj.github.io/chalkboard/src/index
 
 **Davron Ochilov**: This assignment greatly developed my abilities in web design, I was able to create a wireframe with a proper layout, flow and functionality. With my partner's insights I created a wireframe on pen and paper with many different components that I thought were neccesarry for the creation of the website. We went over the term project requirements and made sure our website would fit most of the future criteria. 
 
@@ -22,7 +22,4 @@ If they are already approved in a course upon clicking on the course they can ac
 Teacher’s view: 
 Instructors can go to the class roster and approve students.On the navigation they can access overview, add and remove course materials, recordings and even add new instructors, remove them or leave by themselves . They can view, add or remove assignments, add answer keys, grade the student’s submission and put feedback. After clicking on a particular assignment they can add answers and attach files. They can see both submission or saved draft.
 There's an admin view, where the admin can only see the way instructors put up the course and the way students view and interact with the website.
-
-
-
-
+The actual Website has quite a bit of change than the wireframe to avoid redundancy.
